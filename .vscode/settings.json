@@ -1,10 +1,16 @@
 {
     "cSpell.words": [
         "clsx",
+        "copyfiles",
         "Digi",
         "digimonkey",
+        "hookform",
         "payloadcms",
+        "sonner",
+        "swiper",
         "tailwindcss",
-        "trpc"
+        "tanstack",
+        "trpc",
+        "zustand"
     ]
 }
